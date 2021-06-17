@@ -8,3 +8,4 @@ Sayısal analiz dersi için algoritmalar (algorithms for numerical analysis cour
 -Runge Kutta (Ikinci,Ucuncu,Dorduncu Dereceden)
 -Regresyonlar(Dogrusal,Ikinci Dereceden)
 -Determinant
+....................................................................................
